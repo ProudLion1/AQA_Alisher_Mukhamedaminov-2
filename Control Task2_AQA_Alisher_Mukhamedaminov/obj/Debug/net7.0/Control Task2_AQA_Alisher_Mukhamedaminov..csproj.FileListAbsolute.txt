@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Практика Автоматизации\Control Task2_AQA_Alisher_Mukhamedaminov\Control Task2_AQA_Alisher_Mukhamedaminov\obj\Debug\net7.0\Control Task2_AQA_Alisher_Mukhamedaminov..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Практика Автоматизации\Control Task2_AQA_Alisher_Mukhamedaminov\Control Task2_AQA_Alisher_Mukhamedaminov\obj\Debug\net7.0\Control Task2_AQA_Alisher_Mukhamedaminov..AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Практика Автоматизации\Control Task2_AQA_Alisher_Mukhamedaminov\Control Task2_AQA_Alisher_Mukhamedaminov\obj\Debug\net7.0\Control Task2_AQA_Alisher_Mukhamedaminov..AssemblyInfo.cs
+C:\Users\user\Desktop\Практика Автоматизации\Control Task2_AQA_Alisher_Mukhamedaminov\Control Task2_AQA_Alisher_Mukhamedaminov\obj\Debug\net7.0\Control Task2_AQA_Alisher_Mukhamedaminov..csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Практика Автоматизации\Control Task2_AQA_Alisher_Mukhamedaminov\Control Task2_AQA_Alisher_Mukhamedaminov\bin\Debug\net7.0\Control Task2_AQA_Alisher_Mukhamedaminov..exe
+C:\Users\user\Desktop\Практика Автоматизации\Control Task2_AQA_Alisher_Mukhamedaminov\Control Task2_AQA_Alisher_Mukhamedaminov\bin\Debug\net7.0\Control Task2_AQA_Alisher_Mukhamedaminov..deps.json
+C:\Users\user\Desktop\Практика Автоматизации\Control Task2_AQA_Alisher_Mukhamedaminov\Control Task2_AQA_Alisher_Mukhamedaminov\bin\Debug\net7.0\Control Task2_AQA_Alisher_Mukhamedaminov..runtimeconfig.json
+C:\Users\user\Desktop\Практика Автоматизации\Control Task2_AQA_Alisher_Mukhamedaminov\Control Task2_AQA_Alisher_Mukhamedaminov\bin\Debug\net7.0\Control Task2_AQA_Alisher_Mukhamedaminov..dll
+C:\Users\user\Desktop\Практика Автоматизации\Control Task2_AQA_Alisher_Mukhamedaminov\Control Task2_AQA_Alisher_Mukhamedaminov\bin\Debug\net7.0\Control Task2_AQA_Alisher_Mukhamedaminov..pdb
+C:\Users\user\Desktop\Практика Автоматизации\Control Task2_AQA_Alisher_Mukhamedaminov\Control Task2_AQA_Alisher_Mukhamedaminov\obj\Debug\net7.0\Control Task2_AQA_Alisher_Mukhamedaminov..dll
+C:\Users\user\Desktop\Практика Автоматизации\Control Task2_AQA_Alisher_Mukhamedaminov\Control Task2_AQA_Alisher_Mukhamedaminov\obj\Debug\net7.0\refint\Control Task2_AQA_Alisher_Mukhamedaminov..dll
+C:\Users\user\Desktop\Практика Автоматизации\Control Task2_AQA_Alisher_Mukhamedaminov\Control Task2_AQA_Alisher_Mukhamedaminov\obj\Debug\net7.0\Control Task2_AQA_Alisher_Mukhamedaminov..pdb
+C:\Users\user\Desktop\Практика Автоматизации\Control Task2_AQA_Alisher_Mukhamedaminov\Control Task2_AQA_Alisher_Mukhamedaminov\obj\Debug\net7.0\Control Task2_AQA_Alisher_Mukhamedaminov..genruntimeconfig.cache
+C:\Users\user\Desktop\Практика Автоматизации\Control Task2_AQA_Alisher_Mukhamedaminov\Control Task2_AQA_Alisher_Mukhamedaminov\obj\Debug\net7.0\ref\Control Task2_AQA_Alisher_Mukhamedaminov..dll

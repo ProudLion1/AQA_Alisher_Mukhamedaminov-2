@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Control Task2_AQA_Alisher_Mukhamedaminov./1.0.0": {
+        "runtime": {
+          "Control Task2_AQA_Alisher_Mukhamedaminov..dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Control Task2_AQA_Alisher_Mukhamedaminov./1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
